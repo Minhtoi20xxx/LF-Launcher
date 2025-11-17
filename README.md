@@ -1,15 +1,31 @@
-# LF Launcher
+# **LF Launcher**
 
-LF Launcher is a Minecraft launcher developed for Android devices. The application focuses on:
+- LF Launcher is a Minecraft launcher designed for **Android** devices.  
+- The application focuses on:  
+  - Managing **worlds**, **settings**, and **add-ons**.  
+  - A **simple** and **modern** interface, easy to use.  
+  - Note: **Windows is not supported**.  
+- The original version is **provided and maintained by Mod2090 — from Vietnam**.
 
-- Managing worlds, settings and add-ons.
+---
 
-- Simple and modern interface.
+## **Official Download Link**
 
-- Note: Windows is not supported.
+- **Website:** https://lflauncher.vercel.app/  
+  (Official download from the developer)
 
-The original version was developed by Mod2090 (Vietnam).
+---
 
-License
+## **License**
 
-This source code is licensed under the Apache License 2.0. Please see the LICENSE file for details.
+- This source code is licensed under the **Apache License 2.0**.  
+- Please see the **LICENSE** file for details.
+
+---
+
+## **Developer Links**
+
+- **Discord:** https://discord.gg/fvUt6DuHWX  
+- **Facebook:** https://www.facebook.com/share/1DrDUCxo7R/  
+- **YouTube:** https://youtube.com/@danchoimod  
+- **TikTok:** https://www.tiktok.com/@danchoimod?_t=ZS-8yq4tTfTOza&_r=1
