@@ -5,7 +5,7 @@
   - Managing **worlds**, **settings**, and **add-ons**.  
   - A **simple** and **modern** interface, easy to use.  
   - Note: **Windows is not supported**.  
-- The original version is **provided and maintained by Mod2090 — from Vietnam**.
+- The original version is **provided and by Mod2090 — from Vietnam**.
 
 ---
 
