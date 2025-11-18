@@ -1,4 +1,4 @@
-# **LF Launcher - Complete User Guide**
+# LF Launcher - Complete User Guide
 
 LF Launcher is a Minecraft launcher designed for **Android** devices.  
 The application focuses on:  
@@ -10,129 +10,141 @@ The original version is **provided and maintained by Mod2090 — from Vietnam**.
 
 ---
 
-## **License**
+## License
 
 This source code is licensed under the **Apache License 2.0**.  
 Please see the **LICENSE** file for details.
 
 ---
 
-## **1. How to Install LFLauncher on Android**
-Step-by-step guide to download and install LFLauncher.
+# 1. How to Install LFLauncher on Android
 
-1. **Download the APK**  
-   - Go to the official website: https://lflauncher.vercel.app/  
-   - Download the latest **LFLauncher.apk** to your device.
+## Step 1: Download the APK
+- Visit the official website: **https://lflauncher.vercel.app/**  
+- Download the latest **LFLauncher.apk** file.
 
-2. **Enable Installation from Unknown Sources**  
-   - Go to **Settings → Security → Enable "Unknown sources"** or **"Install unknown apps"**.  
-   - On some devices, you may need to allow your **browser** or **file manager** to install apps.
+## Step 2: Enable Unknown Sources
+Go to:
 
-3. **Install the APK file**  
-   - Open your **Downloads** folder (or wherever you saved the APK).  
-   - Tap on **LFLauncher.apk** and follow the on-screen instructions.  
-   - Once installed, open the app and start using it.
+**Settings → Security → Enable "Unknown sources"**  
+or  
+**Settings → Apps → Install unknown apps**
+
+On some devices, you must allow your **browser** or **file manager** to install APKs.
+
+## Step 3: Install the APK
+- Open your **Downloads** folder.  
+- Tap **LFLauncher.apk** and follow the instructions.  
+- Once finished, open the launcher and start using it.
 
 **Notes:**  
-- Ensure your device has at least **200MB of free space**.  
-- You must **activate your LFLauncher account**.  
-- If you encounter installation issues, **uninstall the old version** before installing the new one.
+- Ensure at least **200MB** of free storage.  
+- You must log in or activate your **LFLauncher account**.  
+- If installation fails, **uninstall the old version** and try again.
 
 ---
 
-## **2. How to Log in with Discord**
-Guide to link and log in with your Discord account.
+# 2. How to Log in with Discord
 
 1. Open LFLauncher.  
-2. Tap **Log in with Discord** on the login screen.  
-3. Authorize LFLauncher to access your Discord account.  
-4. Once logged in, all features will be unlocked.
+2. Tap **"Log in with Discord"**.  
+3. Authorize LFLauncher in the Discord login page.  
+4. Your account will be linked and all features unlocked.
 
 ---
 
-## **3. How to Use LFcoins and Shop in the Store**
+# 3. How to Use LFcoins and Shop in the Store
 
-### **What are LFcoins?**
-LFcoins are LFLauncher’s **virtual currency** used to purchase maps, skins, texture packs, and more.
+## What are LFcoins?
+LFcoins are LFLauncher’s **virtual currency** used to purchase maps, skins, textures, and more.
 
-### **How to Earn LFcoins**
-1. **Daily Login:** Earn free LFcoins by logging in every day.  
-2. **Complete Missions:** Participate in special missions to earn rewards.  
-3. **Purchase:** Buy LFcoins in the **Shop** menu.  
-4. **Redeem Codes:** Use gift codes to receive LFcoins.
+## How to Earn LFcoins
+1. **Daily Login:** Earn free LFcoins every day.  
+2. **Complete Missions:** Participate in missions to gain rewards.  
+3. **Purchase Coins:** Buy more LFcoins in the **Shop** menu.  
+4. **Redeem Codes:** Apply gift codes for bonus LFcoins.
 
-### **How to Shop in the Store**
-1. Go to **SHOP → Store** from the navigation menu.  
-2. Browse available content packs or search for what you want.  
-3. Click a pack to view **details and price**.  
-4. Click **"BUY NOW"** and confirm payment using LFcoins.  
-5. Your purchased pack will be added to your account **instantly**!
+## How to Shop
+1. Open **SHOP → Store**.  
+2. Browse or search for content.  
+3. Tap an item to view details.  
+4. Tap **BUY NOW** and confirm using LFcoins.  
+5. Your content will be delivered instantly.
 
 **Notes:**  
-- Check your **LFcoin balance** at the top-right corner of the Store.  
-- Purchased items are **non-refundable**.  
-- LFcoins **cannot be transferred** to other users.
+- LFcoin balance appears at the top-right of the Store.  
+- Purchases are **non-refundable**.  
+- LFcoins **cannot be transferred**.
 
 ---
 
-## **4. How to Switch Between Minecraft Versions**
-Guide to manage and switch between Minecraft Bedrock versions.
+# 4. How to Switch Between Minecraft Versions
 
-1. **Open LFLauncher** on your Android device.  
-2. Tap the ⚙️ **Settings** or 📦 **Versions** icon from the main menu.  
-3. Select the version you want to use (e.g., 1.20.80, 1.19.51).  
-4. Press **PLAY** or **Launch** to start the game.
+1. Open LFLauncher.  
+2. Tap the ⚙️ **Settings** or 📦 **Versions** menu.  
+3. Choose your desired version (e.g., 1.20.80, 1.19.51).  
+4. Press **PLAY** to launch that version.
 
-**Add new versions:**  
-- Tap **+ Add Version** in the Version Manager.  
-- Select a version from the list and tap **Download**.  
-- The version will be downloaded and installed automatically.
+## Add New Versions
+- Tap **+ Add Version**.  
+- Choose a version and tap **Download**.  
+- LFLauncher will install it automatically.
 
 **Notes:**  
-- Each version takes about 100–150MB of storage.  
-- You can delete unused versions to free up space.  
-- World data and settings remain intact when switching versions.
+- Each version uses **100–150MB**.  
+- You can delete old versions to free space.  
+- Worlds and settings are preserved.
 
 ---
 
-## **5. How to Use Redeem Codes**
-Guide to enter and activate redeem codes for LFcoins and special rewards.
+# 5. How to Use Redeem Codes
 
-1. Log in to your LFLauncher account.  
-2. Go to **STORE → "Redeem Code"** or access via **/redeem**.  
-3. Enter your gift code (e.g., **LFLAUNCHER2025**) and click **REDEEM**.  
-4. Rewards will be credited immediately if the code is valid.
+1. Log into your LFLauncher account.  
+2. Navigate to **STORE → Redeem Code** or go to **/redeem**.  
+3. Enter your code (example: **LFLAUNCHER2025**) and press **REDEEM**.  
+4. Rewards are added instantly if the code is valid.
 
 **Notes:**  
-- Each code can only be used **once per account**.  
+- Each code works **only once per account**.  
 - Codes may **expire**.  
-- Rewards may include **LFcoins**, **content packs**, or **special items**.  
-- If the code does not work, check spelling or contact **developer support**.
+- Rewards may include LFcoins, content packs, or special items.  
+- If it fails, verify the code or contact support.
 
 ---
 
-## **6. Fix: Game Fails to Launch**
-Solutions for common issues when Minecraft fails to launch from LFLauncher.
+# 6. Troubleshooting — Fix: Game Fails to Launch
 
-**Issue 1: "The app keeps stopping"**  
-**Cause:** Not enough RAM or conflicts with other apps.  
+## Issue 1: "The app keeps stopping"
+**Cause:** Not enough RAM or app conflicts.  
 **Solutions:**  
-- Close background applications.  
+- Close background apps.  
 - Restart your device.  
-- Clear LFLauncher cache in Settings.  
-- Reinstall the app if necessary.
+- Clear LFLauncher **cache**.  
+- Reinstall the app.
 
-**Issue 2: "Game won't start"**  
-**Cause:** Corrupted game files or incompatible version.  
+## Issue 2: "Game won't start"
+**Cause:** Damaged files or incompatible versions.  
 **Solutions:**  
-- Delete the problematic game version.  
-- Re-download the version via Version Manager.  
+- Remove the broken version.  
+- Re-download using Version Manager.  
 - Ensure storage permissions are granted.  
-- Check available device storage.
+- Check available storage space.
 
-**Still having problems? Contact the developer:**  
+---
+
+# Support & Contact
+
+If you still have problems, contact the official support channels:
+
 - **Email:** lastfom.studio@gmail.com  
+- **Official Website:** https://lflauncher.vercel.app/  
 - **Discord:** https://discord.gg/fvUt6DuHWX  
 - **Facebook:** https://www.facebook.com/share/1DrDUCxo7R/  
 - **YouTube:** https://youtube.com/@danchoimod  
-- **TikTok:** https://www.tiktok.com/@danchoimod?_t=ZS-8yq4tTfTOza&_r=1
+- **TikTok:** https://www.tiktok.com/@danchoimod?_t=ZS-8yq4tTfTOza&_r=1  
+- **X (Twitter):** https://x.com/TTPGamer269994
+
+---
+
+# End of Guide
+Thank you for using **LF Launcher** — made in Vietnam 🇻🇳
